@@ -23,8 +23,8 @@
 hs_err_pid*
 replay_pid*
 
-out
+out/
 
-practice
+practice/
 
 .idea
